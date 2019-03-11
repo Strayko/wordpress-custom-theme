@@ -1,1 +1,1 @@
-###WordPress Custom Theme
+### WordPress Custom Theme
